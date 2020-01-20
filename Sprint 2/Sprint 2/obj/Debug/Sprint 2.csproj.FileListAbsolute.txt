@@ -1,0 +1,100 @@
+C:\Users\user\source\repos\Sprint 2\Sprint 2\bin\Debug\Sprint 2.exe.config
+C:\Users\user\source\repos\Sprint 2\Sprint 2\bin\Debug\Sprint 2.exe
+C:\Users\user\source\repos\Sprint 2\Sprint 2\bin\Debug\Sprint 2.pdb
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Form1.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Properties.Resources.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint 2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint 2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint 2.exe
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint 2.pdb
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Form2.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.DeliveryMethodForm.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.SignUp.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint 2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.PizzaForm.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.CarryoutInfo.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.DeliveryInfo.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.OrderDrinks.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.OrderToppings.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Sides.resources
+C:\Users\user\source\repos\Sprint 2\Sprint 2\obj\Debug\Sprint_2.ViewOrder.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\bin\Debug\Sprint 2.exe.config
+G:\Users\User\Documents\Sprint 2\Sprint 2\bin\Debug\Sprint 2.exe
+G:\Users\User\Documents\Sprint 2\Sprint 2\bin\Debug\Sprint 2.pdb
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.CarryoutInfo.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.DeliveryInfo.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.DeliveryMethodForm.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Form2.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Form1.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.OrderDrinks.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.OrderToppings.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.PizzaForm.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Properties.Resources.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Sides.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.SignUp.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint_2.ViewOrder.resources
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint 2.csproj.GenerateResource.cache
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint 2.exe
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint 2.pdb
+G:\Users\User\Documents\Sprint 2\Sprint 2\obj\Debug\Sprint 2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Sprint 2\bin\Debug\Sprint 2.exe.config
+C:\Users\user\source\repos\Sprint 2\bin\Debug\Sprint 2.exe
+C:\Users\user\source\repos\Sprint 2\bin\Debug\Sprint 2.pdb
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint 2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.CarryoutInfo.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.DeliveryInfo.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.DeliveryMethodForm.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.Form2.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.Form1.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.OrderDrinks.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.OrderToppings.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.PizzaForm.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.Properties.Resources.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.Sides.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.SignUp.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint_2.ViewOrder.resources
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint 2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint 2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint 2.exe
+C:\Users\user\source\repos\Sprint 2\obj\Debug\Sprint 2.pdb
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint 2.csprojAssemblyReference.cache
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.CarryoutInfo.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.DeliveryInfo.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.DeliveryMethodForm.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.Form2.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.Form1.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.OrderDrinks.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.OrderToppings.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.PizzaForm.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.Properties.Resources.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.Sides.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.SignUp.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint_2.ViewOrder.resources
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint 2.csproj.GenerateResource.cache
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint 2.exe
+G:\Users\User\Documents\Pizza\Sprint 2\obj\Debug\Sprint 2.pdb
+G:\Users\User\Documents\Pizza\Sprint 2\bin\Debug\Sprint 2.exe.config
+G:\Users\User\Documents\Pizza\Sprint 2\bin\Debug\Sprint 2.exe
+G:\Users\User\Documents\Pizza\Sprint 2\bin\Debug\Sprint 2.pdb
+C:\Users\Jay\Documents\College Folder\Computer Science\Intro to Software Engineering\SWE Project\Sprints\Sprint 2\Sprint 2\Sprint 2\obj\Debug\Sprint 2.csprojAssemblyReference.cache
+C:\Users\Jay\Documents\College Folder\Computer Science\Intro to Software Engineering\SWE Project\Sprints\Sprint 2\Sprint 2\Sprint 2\obj\Debug\Sprint 2.exe
+C:\Users\Jay\Documents\College Folder\Computer Science\Intro to Software Engineering\SWE Project\Sprints\Sprint 2\Sprint 2\Sprint 2\obj\Debug\Sprint 2.pdb
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\bin\Debug\Sprint 2.exe.config
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\bin\Debug\Sprint 2.exe
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\bin\Debug\Sprint 2.pdb
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint 2.csprojAssemblyReference.cache
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.CarryoutInfo.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.DeliveryInfo.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.DeliveryMethodForm.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Form2.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Form1.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.OrderDrinks.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.OrderToppings.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.PizzaForm.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Properties.Resources.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.Sides.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.SignUp.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint_2.ViewOrder.resources
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint 2.csproj.GenerateResource.cache
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint 2.exe
+G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Debug\Sprint 2.pdb
