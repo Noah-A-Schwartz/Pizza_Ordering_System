@@ -76,7 +76,7 @@ namespace Sprint_2
             if (button1.Text == "Log Out")
             {
                 buttonChange("Sign In");
-                c.loggedIn = false;
+                u.loggedIn = false;
                 Hide();
                 new Form1().ShowDialog();
             }

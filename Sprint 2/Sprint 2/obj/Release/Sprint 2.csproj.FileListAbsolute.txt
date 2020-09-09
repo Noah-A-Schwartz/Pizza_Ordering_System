@@ -17,3 +17,23 @@ G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Release\Sprint_2.ViewOrder.r
 G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Release\Sprint 2.csproj.GenerateResource.cache
 G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Release\Sprint 2.exe
 G:\Users\User\Documents\Pizza\Sprint 2\Sprint 2\obj\Release\Sprint 2.pdb
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\bin\Release\Sprint 2.exe.config
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\bin\Release\Sprint 2.exe
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\bin\Release\Sprint 2.pdb
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint 2.csprojAssemblyReference.cache
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.CarryoutInfo.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.DeliveryInfo.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.DeliveryMethodForm.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.Form2.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.Form1.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.OrderDrinks.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.OrderToppings.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.PizzaForm.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.Properties.Resources.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.Sides.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.SignUp.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint_2.ViewOrder.resources
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint 2.csproj.GenerateResource.cache
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint 2.csproj.CoreCompileInputs.cache
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint 2.exe
+G:\Users\User\Documents\GitHub\Pizza_Ordering_System\Sprint 2\Sprint 2\obj\Release\Sprint 2.pdb
